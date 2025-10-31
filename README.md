@@ -14,5 +14,10 @@
 - Upgrade 5: Every purchase ups your Poyos per Click by 5. This costs 5100 Poyos.
 - Hat: This special one-time purchase increases your Poyo Multiplier by 1.5x. This applies to Poyos per Click and Second. This also gives you a nice hat! This costs 800 Poyos.
 
+## Get up and running
+- Download the .cia or .3dsx file from the Releases.
+- Add this file to your homebrewed 3DS's SD card.
+- If you downloaded the .cia, install this through FBI or another .cia installer. If you downloaded the .3dsx, simply load the file from the homebrew launcher! 
+
 ## Credits
 - [Scratch Everywhere](https://github.com/ScratchEverywhere/ScratchEverywhere): This game could not have been ported to 3DS without it! Check it out with the hyperlink!
